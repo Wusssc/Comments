@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\11010145\11010145\bin\Debug\11010145.exe.config
+C:\Users\User\source\repos\11010145\11010145\bin\Debug\11010145.exe
+C:\Users\User\source\repos\11010145\11010145\bin\Debug\11010145.pdb
+C:\Users\User\source\repos\11010145\11010145\obj\Debug\11010145.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\11010145\11010145\obj\Debug\11010145.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\11010145\11010145\obj\Debug\11010145.exe
+C:\Users\User\source\repos\11010145\11010145\obj\Debug\11010145.pdb
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\bin\Debug\11010145.exe.config
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\bin\Debug\11010145.exe
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\bin\Debug\11010145.pdb
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\obj\Debug\11010145.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\obj\Debug\11010145.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\obj\Debug\11010145.exe
+C:\Users\User\Desktop\Wu\大一下學期\程式\20220518\11010145\11010145\obj\Debug\11010145.pdb
